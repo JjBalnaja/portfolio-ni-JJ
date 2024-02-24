@@ -1,0 +1,66 @@
+.shortcut {
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+button {
+    font-weight: bold;
+    align-items: center;
+    color: black;
+}
+
+a {
+    margin-left: 40px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.intro {
+    margin-left: 30px;
+    display: inline-block;
+    align-self: center;
+}
+
+.image {
+    display: inline-block;
+    margin-left: 800px;
+   
+}
+
+.about-img {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.about-p {
+    width: 500px;
+    height: 200px;
+    float: right;
+    margin-right: 100px;
+}
+h2 {
+    margin-left: 500px;
+}
+
+.div-services {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.p-services {
+    width: 800px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.contact-div {
+   text-align: center   ;
+    background-color: aqua;
+}
+
+.contacts {
+    margin-left: 30px;
+}
